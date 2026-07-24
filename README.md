@@ -1,5 +1,5 @@
-# Vishal-Mehra
-# 💫 About Me:
+# Vishal Mehra
+# About Me:
 🔭 I’m currently working on AI, Machine Learning, and Full-Stack Development projects, exploring LLMs, Computer Vision, and intelligent web applications.<br><br>👯 I’m looking to collaborate on Open Source, AI/ML, Generative AI, and impactful Full-Stack projects.<br><br>🤝 I’m looking for help with MLOps, scalable AI deployment, distributed systems, and contributing to large open-source projects.<br><br>🌱 I’m currently learning Deep Learning, Generative AI, LangChain, RAG, Vector Databases, Docker, and Cloud Deployment.<br><br>💬 Ask me about Python, C++, Machine Learning, Data Structures & Algorithms, React, Node.js, and AI project development.<br><br>⚡ Fun fact: I enjoy turning real-world problems into AI-powered solutions and can spend hours debugging just to learn one new thing.
 
 
