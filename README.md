@@ -10,8 +10,6 @@
 ![](https://streak-stats.demolab.com/?user=codebymehra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codebymehra&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codebymehra&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=codebymehra&icon=0&color=0)](https://visitcount.itsvg.in)
